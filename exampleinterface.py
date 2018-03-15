@@ -4,3 +4,4 @@ if __name__ == '__main__':
   frame = wx.Frame(None, wx.ID_ANY, "Gatos")
   frame.Show()
   app.MainLoop()
+#ejemplo de UI
