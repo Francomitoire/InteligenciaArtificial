@@ -12,7 +12,7 @@ __license__ = "GPL"
 
 
 class Calculator(object):
-    #tu mama
+    #tu mama asd
 
     def __init__(self):
         self.operators = {"+": self.Sum,
