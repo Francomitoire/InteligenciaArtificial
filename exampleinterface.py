@@ -9,4 +9,4 @@ if __name__ == '__main__':
   frame.Center()
   frame.Show()
   app.MainLoop()
-#Editor simple
+
