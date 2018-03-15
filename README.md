@@ -1,4 +1,3 @@
-# InteligenciaArtificial
 
-repo para ia
+
  
