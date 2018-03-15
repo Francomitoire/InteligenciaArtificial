@@ -8,4 +8,5 @@ if __name__ == '__main__':
   frame = TestFrame(None, 'Editor de Texto')
   frame.Center()
   frame.Show()
+  app.MainLoop()
 #Editor simple
